@@ -1,0 +1,17 @@
+h1 {
+    size: 2em;
+    color: green;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: lighter;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+p {
+    size: 1em;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 2;
+    margin-bottom: 0;
+    margin-top: 0;
+}
